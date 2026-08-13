@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:08Z",
+            "last_commit": "2026-08-13T18:24:57Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22343
+            "stars": 22352
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:30:37Z",
+            "last_commit": "2026-08-13T12:27:31Z",
             "owner": "pest-parser",
             "repo": "pest",
             "stars": 5377
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:47:07Z",
+            "last_commit": "2026-08-13T15:50:38Z",
             "owner": "Keats",
             "repo": "tera",
             "stars": 4289
@@ -84,7 +84,7 @@
             "last_commit": "2024-08-01T16:50:35Z",
             "owner": "Zokrates",
             "repo": "ZoKrates",
-            "stars": 1874
+            "stars": 1873
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-29T06:05:17Z",
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1621
+            "stars": 1622
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-12T04:04:16Z",
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -165,10 +165,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T02:59:27Z",
+            "last_commit": "2026-08-13T18:11:02Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 774
+            "stars": 813
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:30:43.150Z",
+    "last_updated": "2026-08-13T18:27:48.717Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
