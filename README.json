@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T18:24:57Z",
+            "last_commit": "2026-08-14T17:32:46Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22352
+            "stars": 22360
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T12:27:31Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5377
+            "stars": 5378
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-11-24T19:14:44Z",
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4742
+            "stars": 4741
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T15:50:38Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4289
+            "stars": 4291
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-03-18T13:18:28Z",
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1674
+            "stars": 1673
           }
         },
         {
@@ -140,7 +140,21 @@
             "last_commit": "2026-08-08T08:20:04Z",
             "owner": "mitnk",
             "repo": "cicada",
-            "stars": 1005
+            "stars": 1006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Woxi",
+          "description": "Interpreter and computer algebra system for a subset of the Wolfram Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T17:17:54Z",
+            "owner": "ad-si",
+            "repo": "Woxi",
+            "stars": 834
           }
         },
         {
@@ -155,20 +169,6 @@
             "owner": "wahn",
             "repo": "rs_pbrt",
             "stars": 830
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Woxi",
-          "description": "Interpreter and computer algebra system for a subset of the Wolfram Language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T18:11:02Z",
-            "owner": "ad-si",
-            "repo": "Woxi",
-            "stars": 813
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:27:48.717Z",
+    "last_updated": "2026-08-14T18:25:13.859Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
