@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:32:46Z",
+            "last_commit": "2026-08-15T00:34:48Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22360
+            "stars": 22366
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T12:27:31Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5378
+            "stars": 5379
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-11-24T19:14:44Z",
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4741
+            "stars": 4742
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-13T15:50:38Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4291
+            "stars": 4288
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-22T21:20:38Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2945
+            "stars": 2946
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-29T06:05:17Z",
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1622
+            "stars": 1623
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:17:54Z",
+            "last_commit": "2026-08-15T15:46:11Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 834
+            "stars": 851
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:25:13.859Z",
+    "last_updated": "2026-08-15T17:46:14.313Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
