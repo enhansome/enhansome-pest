@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T00:34:48Z",
+            "last_commit": "2026-08-17T17:39:09Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22365
+            "stars": 22381
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-22T21:20:38Z",
+            "last_commit": "2026-08-17T11:02:19Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2946
+            "stars": 2947
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-12T04:04:16Z",
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1479
+            "stars": 1480
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T17:42:35Z",
+            "last_commit": "2026-08-17T17:48:05Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 856
+            "stars": 867
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-02-07T15:06:44Z",
             "owner": "callum-oakley",
             "repo": "json5-rs",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:45:51.209Z",
+    "last_updated": "2026-08-17T17:56:50.902Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
