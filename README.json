@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:39:09Z",
+            "last_commit": "2026-08-18T17:52:20Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22381
+            "stars": 22395
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-13T12:27:31Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5379
+            "stars": 5380
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:50:38Z",
+            "last_commit": "2026-08-18T14:23:55Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4287
+            "stars": 4288
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-12T04:04:16Z",
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1480
+            "stars": 1481
           }
         },
         {
@@ -151,10 +151,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:48:05Z",
+            "last_commit": "2026-08-18T16:41:38Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 867
+            "stars": 872
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-02-07T15:06:44Z",
             "owner": "callum-oakley",
             "repo": "json5-rs",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:56:50.902Z",
+    "last_updated": "2026-08-18T17:54:59.086Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
