@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146327667,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:52:20Z",
+            "last_commit": "2026-08-18T21:55:24Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22395
+            "stars": 22408
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56964647,
             "language": "Rust",
-            "last_commit": "2026-08-13T12:27:31Z",
+            "last_commit": "2026-08-19T09:58:47Z",
             "owner": "pest-parser",
             "repo": "pest",
             "stars": 5380
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458907326,
             "language": "Rust",
             "last_commit": "2024-11-24T19:14:44Z",
             "owner": "yoav-lavi",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-18T14:23:55Z",
+            "last_commit": "2026-08-18T22:27:38Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4288
+            "stars": 4289
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165561258,
             "language": "Rust",
             "last_commit": "2026-08-17T11:02:19Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2947
+            "stars": 2946
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107952203,
             "language": "Rust",
             "last_commit": "2024-08-01T16:50:35Z",
             "owner": "Zokrates",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147120314,
             "language": "Rust",
             "last_commit": "2026-03-18T13:18:28Z",
             "owner": "yamafaktory",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267024149,
             "language": "Rust",
             "last_commit": "2026-07-29T06:05:17Z",
             "owner": "huacnlee",
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28298785,
             "language": "Rust",
             "last_commit": "2026-08-12T04:04:16Z",
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1481
+            "stars": 1482
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84448164,
             "language": "Rust",
             "last_commit": "2026-08-08T08:20:04Z",
             "owner": "mitnk",
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 851960895,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:41:38Z",
+            "last_commit": "2026-08-19T11:47:17Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 872
+            "stars": 875
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77078031,
             "language": "Rust",
             "last_commit": "2024-01-29T17:42:51Z",
             "owner": "wahn",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171061002,
             "language": "Rust",
             "last_commit": "2026-08-11T15:39:21Z",
             "owner": "typedb",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138438266,
             "language": "Rust",
             "last_commit": "2026-02-07T15:06:44Z",
             "owner": "callum-oakley",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454207143,
             "language": "TypeScript",
             "last_commit": "2026-07-26T22:54:55Z",
             "owner": "keadex",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424674956,
             "language": "Rust",
             "last_commit": "2022-01-17T12:19:26Z",
             "owner": "abhimanyu003",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166690281,
             "language": "Rust",
             "last_commit": "2023-07-21T00:54:29Z",
             "owner": "cch123",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51871171,
             "language": "Rust",
             "last_commit": "2025-12-21T22:56:15Z",
             "owner": "Luz",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147464794,
             "language": "Rust",
             "last_commit": "2026-04-10T03:28:34Z",
             "owner": "svenstaro",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 997756319,
             "language": "Rust",
             "last_commit": "2026-08-07T00:48:49Z",
             "owner": "pygmy-twylyte",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285366923,
             "language": "Rust",
             "last_commit": "2025-03-10T20:03:51Z",
             "owner": "Geobert",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77290810,
             "language": "Rust",
             "last_commit": "2020-08-31T02:11:10Z",
             "owner": "dgraham",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120968735,
             "language": "Rust",
             "last_commit": "2021-04-07T03:07:46Z",
             "owner": "jturner314",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76114844,
             "language": "Rust",
             "last_commit": "2022-01-27T21:09:04Z",
             "owner": "jarcane",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179421969,
             "language": "Rust",
             "last_commit": "2023-03-20T22:57:39Z",
             "owner": "shnewto",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401040349,
             "language": "Rust",
             "last_commit": "2021-08-30T11:27:08Z",
             "owner": "aofdev",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696371408,
             "language": "Rust",
             "last_commit": "2024-06-10T04:51:14Z",
             "owner": "AltaModaTech",
@@ -388,93 +415,95 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819113051,
             "language": "Rust",
             "last_commit": "2024-06-24T23:33:57Z",
             "owner": "rust-utilities",
             "repo": "liquid-grammar-pest",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "RuSh",
-          "description": "RuSh aims to be a bash compatible shell with candies, written in Rust.",
-          "children": []
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tooling"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "pest IDE tools",
-          "description": "A main repository with LSP server and VSCode extension.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-12T20:12:19Z",
-            "owner": "pest-parser",
-            "repo": "pest-ide-tools",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pest.vim",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pest IDE tools",
+              "description": "A main repository with LSP server and VSCode extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600435172,
+                "language": "Rust",
+                "last_commit": "2026-06-12T20:12:19Z",
+                "owner": "pest-parser",
+                "repo": "pest-ide-tools",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pest.vim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111856420,
+                "language": "Vim Script",
+                "last_commit": "2026-03-07T00:15:29Z",
+                "owner": "pest-parser",
+                "repo": "pest.vim",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pest-fmt",
+              "description": "It can help to format pest grammars.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201250465,
+                "language": "Rust",
+                "last_commit": "2024-04-08T01:22:57Z",
+                "owner": "pest-parser",
+                "repo": "pest-fmt",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pest web debugger",
+              "description": "Try it online.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631241761,
+                "language": "Rust",
+                "last_commit": "2023-06-23T06:25:41Z",
+                "owner": "tomtau",
+                "repo": "pest-web-debug",
+                "stars": 3
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-03-07T00:15:29Z",
-            "owner": "pest-parser",
-            "repo": "pest.vim",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pest-fmt",
-          "description": "It can help to format pest grammars.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-04-08T01:22:57Z",
-            "owner": "pest-parser",
-            "repo": "pest-fmt",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pest web debugger",
-          "description": "Try it online.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-06-23T06:25:41Z",
-            "owner": "tomtau",
-            "repo": "pest-web-debug",
-            "stars": 3
-          }
+          "node_type": "group",
+          "title": "IDE Support"
         }
       ],
-      "title": "IDE Support"
+      "title": "Tooling"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:54:59.086Z",
+    "last_updated": "2026-08-19T12:45:15.459Z",
     "original_repository": "pest-parser/awesome-pest",
+    "original_repository_id": 610194360,
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
     "enhanced_repository_description": null,
