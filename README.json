@@ -12,10 +12,10 @@
             "archived": false,
             "id": 146327667,
             "language": "Rust",
-            "last_commit": "2026-08-22T01:20:33Z",
+            "last_commit": "2026-08-24T14:35:34Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22438
+            "stars": 22446
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:36:20Z",
+            "last_commit": "2026-08-24T12:54:46Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4291
+            "stars": 4293
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-17T11:02:19Z",
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2948
+            "stars": 2949
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 851960895,
             "language": "Rust",
-            "last_commit": "2026-08-23T16:38:21Z",
+            "last_commit": "2026-08-24T14:31:49Z",
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 890
@@ -495,13 +495,35 @@
           "description": null,
           "node_type": "group",
           "title": "IDE Support"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pest-ast",
+              "description": "It can help to reduce boilerplate when converting pest parse trees to abstract syntax trees.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146967549,
+                "language": "Rust",
+                "last_commit": "2026-07-22T13:38:42Z",
+                "owner": "pest-parser",
+                "repo": "ast",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Boilerplate reduction and testing"
         }
       ],
       "title": "Tooling"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:46:23.927Z",
+    "last_updated": "2026-08-24T14:40:36.772Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_id": 610194360,
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
