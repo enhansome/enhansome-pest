@@ -12,10 +12,10 @@
             "archived": false,
             "id": 146327667,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:35:34Z",
+            "last_commit": "2026-08-24T17:19:09Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22446
+            "stars": 22448
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T12:54:46Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4293
+            "stars": 4294
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 851960895,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:31:49Z",
+            "last_commit": "2026-08-24T17:25:52Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 890
+            "stars": 891
           }
         },
         {
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:40:36.772Z",
+    "last_updated": "2026-08-24T17:58:03.677Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_id": 610194360,
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
