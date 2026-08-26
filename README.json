@@ -12,10 +12,10 @@
             "archived": false,
             "id": 146327667,
             "language": "Rust",
-            "last_commit": "2026-08-25T17:33:56Z",
+            "last_commit": "2026-08-26T18:50:46Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22452
+            "stars": 22458
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T00:58:02Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5381
+            "stars": 5382
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:54:46Z",
+            "last_commit": "2026-08-26T12:59:22Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4295
+            "stars": 4296
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 267024149,
             "language": "Rust",
-            "last_commit": "2026-07-29T06:05:17Z",
+            "last_commit": "2026-08-26T03:59:59Z",
             "owner": "huacnlee",
             "repo": "autocorrect",
             "stars": 1627
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 851960895,
             "language": "Rust",
-            "last_commit": "2026-08-25T16:51:51Z",
+            "last_commit": "2026-08-26T19:14:17Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 893
+            "stars": 894
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-02-07T15:06:44Z",
             "owner": "callum-oakley",
             "repo": "json5-rs",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:56:37.581Z",
+    "last_updated": "2026-08-26T19:25:00.277Z",
     "original_repository": "pest-parser/awesome-pest",
     "original_repository_id": 610194360,
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
