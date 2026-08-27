@@ -12,10 +12,10 @@
             "archived": false,
             "id": 146327667,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:50:46Z",
+            "last_commit": "2026-08-27T01:18:06Z",
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22458
+            "stars": 22465
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T00:58:02Z",
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5382
+            "stars": 5384
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 39272160,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:59:22Z",
+            "last_commit": "2026-08-26T21:10:10Z",
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4296
+            "stars": 4297
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-26T03:59:59Z",
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1627
+            "stars": 1626
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 851960895,
             "language": "Rust",
-            "last_commit": "2026-08-26T19:14:17Z",
+            "last_commit": "2026-08-27T10:38:58Z",
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 894
+            "stars": 897
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 454207143,
             "language": "TypeScript",
-            "last_commit": "2026-07-26T22:54:55Z",
+            "last_commit": "2026-08-26T23:42:18Z",
             "owner": "keadex",
             "repo": "keadex",
             "stars": 203
@@ -523,9 +523,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:25:00.277Z",
-    "original_repository": "pest-parser/awesome-pest",
-    "original_repository_id": 610194360,
+    "last_updated": "2026-08-27T11:59:29.394Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 610194360,
+      "language": null,
+      "last_commit": "2026-08-08T11:20:07Z",
+      "owner": "pest-parser",
+      "repo": "awesome-pest",
+      "stars": 151
+    },
     "original_repository_sha": "eae74f52bc40d120c974590e33aa9fe61e7f7185",
     "enhanced_repository": "enhansome/enhansome-pest",
     "enhanced_repository_description": null,
