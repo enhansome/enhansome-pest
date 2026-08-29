@@ -27,7 +27,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 22,474 | 🐛 2,511 | 🌐 Rust | 📅 2026-08-29 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 22,476 | 🐛 2,512 | 🌐 Rust | 📅 2026-08-29 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,386 | 🐛 64 | 🌐 Rust | 📅 2026-08-20 - The pest itself is bootstrapped using pest.
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,744 | 🐛 9 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 * [tera](https://github.com/Keats/tera) ⭐ 4,297 | 🐛 8 | 🌐 Rust | 📅 2026-08-28 - A template engine for Rust based on Jinja2/Django.
@@ -37,7 +37,7 @@ Here are some example projects using pest:
 * [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,626 | 🐛 6 | 🌐 Rust | 📅 2026-08-26 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,483 | 🐛 42 | 🌐 Rust | 📅 2026-08-12 - Rust templating with Handlebars.
 * [cicada](https://github.com/mitnk/cicada) ⭐ 1,006 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - An old-school bash-like Unix shell written in Rust.
-* [Woxi](https://github.com/ad-si/Woxi) ⭐ 899 | 🐛 17 | 🌐 Rust | 📅 2026-08-28 - Interpreter and computer algebra system for a subset of the Wolfram Language.
+* [Woxi](https://github.com/ad-si/Woxi) ⭐ 899 | 🐛 18 | 🌐 Rust | 📅 2026-08-29 - Interpreter and computer algebra system for a subset of the Wolfram Language.
 * [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 831 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 * [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 254 | 🐛 46 | 🌐 Rust | 📅 2026-08-27 - TypeDB's query language, written in Pest
 * [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 243 | 🐛 5 | 🌐 Rust | 📅 2026-02-07 - A Rust JSON5 serializer and deserializer which speaks Serde.
