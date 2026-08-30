@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-08-29T02:18:46Z",
-            "open_issues": 2512,
+            "open_issues": 2515,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22487,
+            "stars": 22488,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5387,
+            "stars": 5389,
             "topics": [
               "parsing",
               "peg",
@@ -111,7 +111,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-28T15:40:41Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
             "stars": 4298,
@@ -137,10 +137,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-17T11:02:19Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2951,
+            "stars": 2952,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T19:32:11Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-30T09:43:17Z",
+            "open_issues": 6,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 899,
+            "stars": 901,
             "topics": [
               "algebra",
               "arithmetic",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:55:21.245Z",
+    "last_updated": "2026-08-30T19:57:54.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
@@ -949,7 +949,7 @@
       "open_issues": 0,
       "owner": "pest-parser",
       "repo": "awesome-pest",
-      "stars": 152,
+      "stars": 153,
       "topics": [
         "awesome",
         "awesome-list",
