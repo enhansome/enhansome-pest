@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-29T02:18:46Z",
-            "open_issues": 2515,
+            "last_commit": "2026-08-31T21:46:38Z",
+            "open_issues": 2511,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22488,
+            "stars": 22498,
             "topics": [
               "agent",
               "cloud-native",
@@ -110,11 +110,11 @@
             "id": 39272160,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:40:41Z",
+            "last_commit": "2026-08-31T20:17:07Z",
             "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "django",
               "jinja2",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T09:43:17Z",
+            "last_commit": "2026-08-31T21:05:16Z",
             "open_issues": 6,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 901,
+            "stars": 903,
             "topics": [
               "algebra",
               "arithmetic",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:57:54.623Z",
+    "last_updated": "2026-08-31T21:59:50.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
