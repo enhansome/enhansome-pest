@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-09T19:54:05Z",
-            "open_issues": 2515,
+            "last_commit": "2026-09-10T19:54:33Z",
+            "open_issues": 2514,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22529,
+            "stars": 22538,
             "topics": [
               "agent",
               "cloud-native",
@@ -114,7 +114,7 @@
             "open_issues": 8,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4301,
+            "stars": 4303,
             "topics": [
               "django",
               "jinja2",
@@ -193,7 +193,7 @@
             "open_issues": 0,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1677,
+            "stars": 1678,
             "topics": [
               "cargo",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 6,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -250,7 +250,7 @@
             "id": 28298785,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T23:23:50Z",
+            "last_commit": "2026-09-10T03:02:58Z",
             "open_issues": 43,
             "owner": "sunng87",
             "repo": "handlebars-rust",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T15:07:54Z",
+            "last_commit": "2026-09-10T15:50:54Z",
             "open_issues": 5,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "algebra",
               "arithmetic",
@@ -375,7 +375,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-09-09T10:37:46Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "typedb",
             "repo": "typeql",
             "stars": 254,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:57:07.931Z",
+    "last_updated": "2026-09-10T19:57:15.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
