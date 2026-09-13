@@ -27,17 +27,17 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 22,546 | 🐛 2,494 | 🌐 Rust | 📅 2026-09-11 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 22,549 | 🐛 2,494 | 🌐 Rust | 📅 2026-09-11 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,397 | 🐛 66 | 🌐 Rust | 📅 2026-09-05 - The pest itself is bootstrapped using pest.
-* [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,744 | 🐛 9 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
-* [tera](https://github.com/Keats/tera) ⭐ 4,307 | 🐛 4 | 🌐 Rust | 📅 2026-09-11 - A template engine for Rust based on Jinja2/Django.
-* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,958 | 🐛 73 | 🌐 Rust | 📅 2026-09-06 - A snapshot testing library for rust.
+* [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,743 | 🐛 9 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
+* [tera](https://github.com/Keats/tera) ⭐ 4,306 | 🐛 4 | 🌐 Rust | 📅 2026-09-11 - A template engine for Rust based on Jinja2/Django.
+* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,960 | 🐛 73 | 🌐 Rust | 📅 2026-09-06 - A snapshot testing library for rust.
 * [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,870 | 🐛 115 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,679 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language CLI tool.
-* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,629 | 🐛 7 | 🌐 Rust | 📅 2026-08-26 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,630 | 🐛 7 | 🌐 Rust | 📅 2026-08-26 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,485 | 🐛 43 | 🌐 Rust | 📅 2026-09-12 - Rust templating with Handlebars.
 * [cicada](https://github.com/mitnk/cicada) ⭐ 1,006 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - An old-school bash-like Unix shell written in Rust.
-* [Woxi](https://github.com/ad-si/Woxi) ⭐ 916 | 🐛 6 | 🌐 Rust | 📅 2026-09-12 - Interpreter and computer algebra system for a subset of the Wolfram Language.
+* [Woxi](https://github.com/ad-si/Woxi) ⭐ 917 | 🐛 16 | 🌐 Rust | 📅 2026-09-13 - Interpreter and computer algebra system for a subset of the Wolfram Language.
 * [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 831 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 * [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 254 | 🐛 48 | 🌐 Rust | 📅 2026-09-09 - TypeDB's query language, written in Pest
 * [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 245 | 🐛 5 | 🌐 Rust | 📅 2026-02-07 - A Rust JSON5 serializer and deserializer which speaks Serde.
@@ -46,14 +46,14 @@ Here are some example projects using pest:
 * [elastic-rs](https://github.com/cch123/elastic-rs) ⭐ 52 | 🐛 1 | 🌐 Rust | 📅 2023-07-21 - Convert bool expressions to Elasticsearch DSL in Rust.
 * [hexdino](https://github.com/Luz/hexdino) ⭐ 33 | 🐛 2 | 🌐 Rust | 📅 2025-12-21 - A hex editor with vim like keybindings written in Rust.
 * [mt940](https://github.com/svenstaro/mt940-rs) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2026-04-10 - A MT940 parser in Rust.
-* [Amble](https://github.com/pygmy-twylyte/amble) ⭐ 27 | 🐛 5 | 🌐 Rust | 📅 2026-08-07 - Parser (text adventure) game development platform (uses Pest both for parsing player input and for the DSL used in world creation).
+* [Amble](https://github.com/pygmy-twylyte/amble) ⭐ 28 | 🐛 5 | 🌐 Rust | 📅 2026-08-07 - Parser (text adventure) game development platform (uses Pest both for parsing player input and for the DSL used in world creation).
 * [caith](https://github.com/Geobert/caith) ⭐ 26 | 🐛 1 | 🌐 Rust | 📅 2025-03-10 - A dice roller crate.
 * [stache](https://github.com/dgraham/stache) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2020-08-31 - A Mustache template compiler.
 * [py\_literal](https://github.com/jturner314/py_literal) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2021-04-07 - Rust crate for parsing/formatting Python literals.
 * [rouler](https://github.com/jarcane/rouler) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2022-01-27 - An easy to use dice rolling library for Rust.
 * [AshPaper](https://github.com/shnewto/ashpaper) ⭐ 15 | 🐛 11 | 🌐 Rust | 📅 2023-03-20 - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 * [yaml-peg](https://github.com/aofdev/yaml-peg) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2021-08-30 - PEG parser for YAML written in Rust.
-* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,994 | 🐛 237 | 🌐 Python | 📅 2026-08-23, [Ledger](https://github.com/ledger/ledger) ⭐ 6,034 | 🐛 18 | 🌐 C++ | 📅 2026-09-05, and other PTA formats.
+* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 5,996 | 🐛 238 | 🌐 Python | 📅 2026-08-23, [Ledger](https://github.com/ledger/ledger) ⭐ 6,034 | 🐛 18 | 🌐 C++ | 📅 2026-09-05, and other PTA formats.
 * [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-06-24 - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags *not-sponsored* or *affiliated*) for use in consuming crates
 * [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 * [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
@@ -72,7 +72,7 @@ Here are some example projects using pest:
 
 ### Boilerplate reduction and testing
 
-* [pest-ast](https://github.com/pest-parser/ast) ⭐ 93 | 🐛 21 | 🌐 Rust | 📅 2026-07-22 - It can help to reduce boilerplate when converting pest parse trees to abstract syntax trees.
+* [pest-ast](https://github.com/pest-parser/ast) ⭐ 92 | 🐛 21 | 🌐 Rust | 📅 2026-07-22 - It can help to reduce boilerplate when converting pest parse trees to abstract syntax trees.
 * [pest\_consume](https://crates.io/crates/pest_consume) - This crate can help with the parse tree traversing boilerplate.
 * [pest-test](https://crates.io/crates/pest-test) - It is a testing framework for pest grammars.
 * [pest\_ascii\_tree](https://crates.io/crates/pest_ascii_tree) - Output `Pairs` in a tree on the console
@@ -83,4 +83,4 @@ Here are some example projects using pest:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
