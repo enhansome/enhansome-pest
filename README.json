@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-28T22:32:27Z",
-            "open_issues": 2483,
+            "last_commit": "2026-09-29T21:17:03Z",
+            "open_issues": 2487,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22637,
+            "stars": 22642,
             "topics": [
               "agent",
               "cloud-native",
@@ -111,7 +111,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T12:56:27Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Keats",
             "repo": "tera",
             "stars": 4316,
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T21:46:53Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-29T19:53:07Z",
+            "open_issues": 27,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 923,
@@ -412,7 +412,7 @@
             "open_issues": 6,
             "owner": "callum-oakley",
             "repo": "json5-rs",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:57.925Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:36:42.651Z",
+    "last_updated": "2026-09-29T21:30:01.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
