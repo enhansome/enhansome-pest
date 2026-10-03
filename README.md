@@ -27,17 +27,17 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 22,659 | 🐛 2,492 | 🌐 Rust | 📅 2026-10-02 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 22,661 | 🐛 2,488 | 🌐 Rust | 📅 2026-10-02 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,404 | 🐛 66 | 🌐 Rust | 📅 2026-09-26 - The pest itself is bootstrapped using pest.
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,741 | 🐛 9 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 * [tera](https://github.com/Keats/tera) ⭐ 4,320 | 🐛 4 | 🌐 Rust | 📅 2026-09-11 - A template engine for Rust based on Jinja2/Django.
-* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,970 | 🐛 73 | 🌐 Rust | 📅 2026-10-02 - A snapshot testing library for rust.
+* [insta](https://github.com/mitsuhiko/insta) ⭐ 2,971 | 🐛 73 | 🌐 Rust | 📅 2026-10-03 - A snapshot testing library for rust.
 * [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,872 | 🐛 114 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
 * [jql](https://github.com/yamafaktory/jql) ⭐ 1,683 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language CLI tool.
-* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,641 | 🐛 8 | 🌐 Rust | 📅 2026-08-26 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+* [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,643 | 🐛 8 | 🌐 Rust | 📅 2026-08-26 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,488 | 🐛 43 | 🌐 Rust | 📅 2026-10-01 - Rust templating with Handlebars.
 * [cicada](https://github.com/mitnk/cicada) ⭐ 1,007 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - An old-school bash-like Unix shell written in Rust.
-* [Woxi](https://github.com/ad-si/Woxi) ⭐ 924 | 🐛 38 | 🌐 Rust | 📅 2026-10-02 - Interpreter and computer algebra system for a subset of the Wolfram Language.
+* [Woxi](https://github.com/ad-si/Woxi) ⭐ 925 | 🐛 39 | 🌐 Rust | 📅 2026-10-03 - Interpreter and computer algebra system for a subset of the Wolfram Language.
 * [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 831 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 * [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 255 | 🐛 47 | 🌐 Rust | 📅 2026-10-02 - TypeDB's query language, written in Pest
 * [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 249 | 🐛 6 | 🌐 Rust | 📅 2026-09-26 - A Rust JSON5 serializer and deserializer which speaks Serde.
@@ -83,4 +83,4 @@ Here are some example projects using pest:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

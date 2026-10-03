@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T21:18:15Z",
-            "open_issues": 2492,
+            "last_commit": "2026-10-02T23:44:19Z",
+            "open_issues": 2488,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22659,
+            "stars": 22661,
             "topics": [
               "agent",
               "cloud-native",
@@ -136,11 +136,11 @@
             "id": 165561258,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:09:55Z",
+            "last_commit": "2026-10-03T01:12:40Z",
             "open_issues": 73,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2970,
+            "stars": 2971,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -224,7 +224,7 @@
             "open_issues": 8,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1641,
+            "stars": 1643,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T21:00:20Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-03T03:33:00Z",
+            "open_issues": 39,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "algebra",
               "arithmetic",
@@ -837,7 +837,7 @@
             {
               "node_type": "item",
               "title": "pest.vim",
-              "description": null,
+              "description": "pest-parser/pest.vim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:24:40.977Z",
+    "last_updated": "2026-10-03T05:01:44.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
