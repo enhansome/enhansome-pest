@@ -19,7 +19,7 @@
             "open_issues": 2488,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22664,
+            "stars": 22666,
             "topics": [
               "agent",
               "cloud-native",
@@ -56,10 +56,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T13:15:24Z",
-            "open_issues": 66,
+            "open_issues": 74,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5405,
+            "stars": 5403,
             "topics": [
               "parsing",
               "peg",
@@ -140,7 +140,7 @@
             "open_issues": 73,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2972,
+            "stars": 2971,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -224,7 +224,7 @@
             "open_issues": 8,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T20:03:38Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-04T20:13:37Z",
+            "open_issues": 29,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 926,
@@ -348,7 +348,7 @@
             "open_issues": 3,
             "owner": "wahn",
             "repo": "rs_pbrt",
-            "stars": 832,
+            "stars": 831,
             "topics": [
               "graphics",
               "pathtracer",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:05:37.998Z",
+    "last_updated": "2026-10-04T20:21:00.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
