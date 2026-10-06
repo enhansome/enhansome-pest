@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-05T20:37:42Z",
+            "last_commit": "2026-10-06T20:49:36Z",
             "open_issues": 2495,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22671,
+            "stars": 22672,
             "topics": [
               "agent",
               "cloud-native",
@@ -56,10 +56,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T11:13:16Z",
-            "open_issues": 69,
+            "open_issues": 71,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5404,
+            "stars": 5403,
             "topics": [
               "parsing",
               "peg",
@@ -114,7 +114,7 @@
             "open_issues": 5,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4323,
+            "stars": 4322,
             "topics": [
               "django",
               "jinja2",
@@ -224,7 +224,7 @@
             "open_issues": 8,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1644,
+            "stars": 1647,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T09:40:37Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-06T21:29:03Z",
+            "open_issues": 7,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 926,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:22.333Z",
+    "last_updated": "2026-10-06T21:48:11.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
