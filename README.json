@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-09T21:47:36Z",
-            "open_issues": 2494,
+            "last_commit": "2026-10-09T22:50:39Z",
+            "open_issues": 2495,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22682,
+            "stars": 22685,
             "topics": [
               "agent",
               "cloud-native",
@@ -84,7 +84,7 @@
             "open_issues": 9,
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4742,
+            "stars": 4740,
             "topics": [
               "compiler",
               "language",
@@ -136,11 +136,11 @@
             "id": 165561258,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:12:40Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-10T18:47:23Z",
+            "open_issues": 75,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2972,
+            "stars": 2973,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T20:31:56Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-10T20:34:24Z",
+            "open_issues": 13,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 930,
+            "stars": 932,
             "topics": [
               "algebra",
               "arithmetic",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:49:41.361Z",
+    "last_updated": "2026-10-10T20:38:25.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
@@ -949,7 +949,7 @@
       "open_issues": 0,
       "owner": "pest-parser",
       "repo": "awesome-pest",
-      "stars": 155,
+      "stars": 156,
       "topics": [
         "awesome",
         "awesome-list",
