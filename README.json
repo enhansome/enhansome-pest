@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-22T20:38:46Z",
-            "open_issues": 2519,
+            "last_commit": "2026-10-23T20:33:37Z",
+            "open_issues": 2528,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22752,
+            "stars": 22760,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 65,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5410,
+            "stars": 5411,
             "topics": [
               "parsing",
               "peg",
@@ -114,7 +114,7 @@
             "open_issues": 8,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4334,
+            "stars": 4335,
             "topics": [
               "django",
               "jinja2",
@@ -137,10 +137,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T18:47:23Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2974,
+            "stars": 2976,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -221,7 +221,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-13T10:55:40Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "huacnlee",
             "repo": "autocorrect",
             "stars": 1659,
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T20:40:31Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-23T20:32:23Z",
+            "open_issues": 8,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 941,
+            "stars": 942,
             "topics": [
               "algebra",
               "arithmetic",
@@ -348,7 +348,7 @@
             "open_issues": 3,
             "owner": "wahn",
             "repo": "rs_pbrt",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "graphics",
               "pathtracer",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:42:32.535Z",
+    "last_updated": "2026-10-23T20:34:50.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
