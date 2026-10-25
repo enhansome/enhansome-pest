@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-24T12:40:16Z",
-            "open_issues": 2530,
+            "open_issues": 2531,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22759,
+            "stars": 22761,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 65,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5411,
+            "stars": 5412,
             "topics": [
               "parsing",
               "peg",
@@ -111,10 +111,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-13T07:36:12Z",
-            "open_issues": 8,
+            "open_issues": 11,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4336,
+            "stars": 4337,
             "topics": [
               "django",
               "jinja2",
@@ -137,7 +137,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T18:47:23Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "mitsuhiko",
             "repo": "insta",
             "stars": 2979,
@@ -193,7 +193,7 @@
             "open_issues": 0,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1687,
+            "stars": 1688,
             "topics": [
               "cargo",
               "cli",
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T19:36:37Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-25T19:38:35Z",
+            "open_issues": 12,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 945,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:39:49.077Z",
+    "last_updated": "2026-10-25T19:52:00.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
