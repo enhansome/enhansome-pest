@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-26T21:41:50Z",
-            "open_issues": 2531,
+            "last_commit": "2026-10-27T21:11:24Z",
+            "open_issues": 2546,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22769,
+            "stars": 22777,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5412,
+            "stars": 5413,
             "topics": [
               "parsing",
               "peg",
@@ -110,11 +110,11 @@
             "id": 39272160,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-26T21:43:50Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-27T13:27:33Z",
+            "open_issues": 7,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4337,
+            "stars": 4338,
             "topics": [
               "django",
               "jinja2",
@@ -224,7 +224,7 @@
             "open_issues": 9,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1659,
+            "stars": 1660,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -302,7 +302,7 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T21:23:25Z",
+            "last_commit": "2026-10-27T21:20:00Z",
             "open_issues": 7,
             "owner": "ad-si",
             "repo": "Woxi",
@@ -409,7 +409,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-24T13:13:23Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "callum-oakley",
             "repo": "json5-rs",
             "stars": 249,
@@ -610,7 +610,7 @@
             "open_issues": 1,
             "owner": "Geobert",
             "repo": "caith",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:57.925Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:45:59.057Z",
+    "last_updated": "2026-10-27T21:26:32.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
