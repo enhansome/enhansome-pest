@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-29T20:46:43Z",
-            "open_issues": 2564,
+            "last_commit": "2026-10-30T21:36:34Z",
+            "open_issues": 2563,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22778,
+            "stars": 22780,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5414,
+            "stars": 5415,
             "topics": [
               "parsing",
               "peg",
@@ -140,7 +140,7 @@
             "open_issues": 77,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2980,
+            "stars": 2981,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -193,7 +193,7 @@
             "open_issues": 0,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1689,
+            "stars": 1688,
             "topics": [
               "cargo",
               "cli",
@@ -224,7 +224,7 @@
             "open_issues": 9,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1660,
+            "stars": 1662,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T21:48:23Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-30T21:33:46Z",
+            "open_issues": 7,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 951,
@@ -378,7 +378,7 @@
             "open_issues": 47,
             "owner": "typedb",
             "repo": "typeql",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "database",
               "inference",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:55:59.588Z",
+    "last_updated": "2026-10-30T21:39:18.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
