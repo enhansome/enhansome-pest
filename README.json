@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-30T21:52:19Z",
-            "open_issues": 2568,
+            "last_commit": "2026-11-01T05:05:00Z",
+            "open_issues": 2570,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22784,
+            "stars": 22786,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5415,
+            "stars": 5416,
             "topics": [
               "parsing",
               "peg",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T20:06:09Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-01T20:40:08Z",
+            "open_issues": 5,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 951,
+            "stars": 954,
             "topics": [
               "algebra",
               "arithmetic",
@@ -549,8 +549,8 @@
             "id": 147464794,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-23T23:39:26Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-01T19:52:37Z",
+            "open_issues": 1,
             "owner": "svenstaro",
             "repo": "mt940-rs",
             "stars": 28,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:36:29.614Z",
+    "last_updated": "2026-11-01T21:20:02.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
