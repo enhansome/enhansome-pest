@@ -27,25 +27,25 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 Here are some example projects using pest:
 
-* [Vector](https://github.com/timberio/vector) ⭐ 22,786 | 🐛 2,570 | 🌐 Rust | 📅 2026-11-01 - A high-performance observability data pipeline.
+* [Vector](https://github.com/timberio/vector) ⭐ 22,784 | 🐛 2,571 | 🌐 Rust | 📅 2026-11-02 - A high-performance observability data pipeline.
 * [pest\_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) ⭐ 5,416 | 🐛 64 | 🌐 Rust | 📅 2026-10-26 - The pest itself is bootstrapped using pest.
 * [Melody](https://github.com/yoav-lavi/melody) ⭐ 4,739 | 🐛 8 | 🌐 Rust | 📅 2024-11-24 - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
-* [tera](https://github.com/Keats/tera) ⭐ 4,341 | 🐛 8 | 🌐 Rust | 📅 2026-10-27 - A template engine for Rust based on Jinja2/Django.
+* [tera](https://github.com/Keats/tera) ⭐ 4,340 | 🐛 8 | 🌐 Rust | 📅 2026-10-27 - A template engine for Rust based on Jinja2/Django.
 * [insta](https://github.com/mitsuhiko/insta) ⭐ 2,981 | 🐛 77 | 🌐 Rust | 📅 2026-10-26 - A snapshot testing library for rust.
 * [ZoKrates](https://github.com/ZoKrates/ZoKrates) ⭐ 1,872 | 🐛 121 | 🌐 Rust | 📅 2024-08-01 - A toolbox for zkSNARKs on Ethereum.
-* [jql](https://github.com/yamafaktory/jql) ⭐ 1,689 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language CLI tool.
+* [jql](https://github.com/yamafaktory/jql) ⭐ 1,690 | 🐛 0 | 🌐 Rust | 📅 2026-09-08 - A JSON Query Language CLI tool.
 * [AutoCorrect](https://github.com/huacnlee/autocorrect) ⭐ 1,661 | 🐛 9 | 🌐 Rust | 📅 2026-10-13 - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) ⭐ 1,487 | 🐛 48 | 🌐 Rust | 📅 2026-10-28 - Rust templating with Handlebars.
 * [cicada](https://github.com/mitnk/cicada) ⭐ 1,009 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - An old-school bash-like Unix shell written in Rust.
-* [Woxi](https://github.com/ad-si/Woxi) ⭐ 954 | 🐛 5 | 🌐 Rust | 📅 2026-11-01 - Interpreter and computer algebra system for a subset of the Wolfram Language.
-* [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 831 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
+* [Woxi](https://github.com/ad-si/Woxi) ⭐ 955 | 🐛 9 | 🌐 Rust | 📅 2026-11-02 - Interpreter and computer algebra system for a subset of the Wolfram Language.
+* [rs\_pbrt](https://github.com/wahn/rs_pbrt) ⭐ 830 | 🐛 3 | 🌐 Rust | 📅 2024-01-29 - Rust crate to implement a counterpart to the PBRT book's (3rd edition) C++ code.
 * [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) ⭐ 257 | 🐛 47 | 🌐 Rust | 📅 2026-10-28 - TypeDB's query language, written in Pest
 * [json5-rs](https://github.com/callum-oakley/json5-rs) ⭐ 251 | 🐛 7 | 🌐 Rust | 📅 2026-10-31 - A Rust JSON5 serializer and deserializer which speaks Serde.
 * [Keadex Mina](https://github.com/keadex/keadex) ⭐ 204 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - Open Source, serverless IDE to code with C4-PlantUML and organize at a scale C4 model diagrams.
 * [qubit](https://github.com/abhimanyu003/qubit) ⭐ 97 | 🐛 2 | 🌐 Rust | 📅 2022-01-17 - A handy calculator, based on Rust and WebAssembly.
 * [elastic-rs](https://github.com/cch123/elastic-rs) ⭐ 52 | 🐛 1 | 🌐 Rust | 📅 2023-07-21 - Convert bool expressions to Elasticsearch DSL in Rust.
 * [hexdino](https://github.com/Luz/hexdino) ⭐ 33 | 🐛 2 | 🌐 Rust | 📅 2025-12-21 - A hex editor with vim like keybindings written in Rust.
-* [mt940](https://github.com/svenstaro/mt940-rs) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2026-11-01 - A MT940 parser in Rust.
+* [mt940](https://github.com/svenstaro/mt940-rs) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2026-11-02 - A MT940 parser in Rust.
 * [Amble](https://github.com/pygmy-twylyte/amble) ⭐ 28 | 🐛 4 | 🌐 Rust | 📅 2026-09-26 - Parser (text adventure) game development platform (uses Pest both for parsing player input and for the DSL used in world creation).
 * [caith](https://github.com/Geobert/caith) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2025-03-10 - A dice roller crate.
 * [stache](https://github.com/dgraham/stache) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2020-08-31 - A Mustache template compiler.
@@ -53,7 +53,7 @@ Here are some example projects using pest:
 * [rouler](https://github.com/jarcane/rouler) ⭐ 18 | 🐛 5 | 🌐 Rust | 📅 2022-01-27 - An easy to use dice rolling library for Rust.
 * [AshPaper](https://github.com/shnewto/ashpaper) ⭐ 15 | 🐛 11 | 🌐 Rust | 📅 2023-03-20 - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 * [yaml-peg](https://github.com/aofdev/yaml-peg) ⭐ 10 | 🐛 0 | 🌐 Rust | 📅 2021-08-30 - PEG parser for YAML written in Rust.
-* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 6,144 | 🐛 248 | 🌐 Python | 📅 2026-08-23, [Ledger](https://github.com/ledger/ledger) ⭐ 6,064 | 🐛 45 | 🌐 C++ | 📅 2026-10-31, and other PTA formats.
+* [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-06-10 - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount) ⭐ 6,146 | 🐛 248 | 🌐 Python | 📅 2026-08-23, [Ledger](https://github.com/ledger/ledger) ⭐ 6,064 | 🐛 46 | 🌐 C++ | 📅 2026-10-31, and other PTA formats.
 * [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2024-06-24 - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags *not-sponsored* or *affiliated*) for use in consuming crates
 * [RuSh](https://github.com/lwandrebeck/RuSh) - RuSh aims to be a bash compatible shell with candies, written in Rust.
 * [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
@@ -83,4 +83,4 @@ Here are some example projects using pest:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._

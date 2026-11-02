@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-01T05:05:00Z",
-            "open_issues": 2570,
+            "last_commit": "2026-11-02T23:54:29Z",
+            "open_issues": 2571,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22786,
+            "stars": 22784,
             "topics": [
               "agent",
               "cloud-native",
@@ -114,7 +114,7 @@
             "open_issues": 8,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4341,
+            "stars": 4340,
             "topics": [
               "django",
               "jinja2",
@@ -193,7 +193,7 @@
             "open_issues": 0,
             "owner": "yamafaktory",
             "repo": "jql",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "cargo",
               "cli",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T20:40:08Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-02T23:48:16Z",
+            "open_issues": 9,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 954,
+            "stars": 955,
             "topics": [
               "algebra",
               "arithmetic",
@@ -348,7 +348,7 @@
             "open_issues": 3,
             "owner": "wahn",
             "repo": "rs_pbrt",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "graphics",
               "pathtracer",
@@ -549,8 +549,8 @@
             "id": 147464794,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-01T19:52:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-02T01:54:07Z",
+            "open_issues": 0,
             "owner": "svenstaro",
             "repo": "mt940-rs",
             "stars": 28,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:20:02.987Z",
+    "last_updated": "2026-11-02T23:59:19.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
@@ -949,7 +949,7 @@
       "open_issues": 0,
       "owner": "pest-parser",
       "repo": "awesome-pest",
-      "stars": 156,
+      "stars": 157,
       "topics": [
         "awesome",
         "awesome-list",
