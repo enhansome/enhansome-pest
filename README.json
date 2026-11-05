@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-04T22:37:12Z",
-            "open_issues": 2572,
+            "last_commit": "2026-11-05T22:37:12Z",
+            "open_issues": 2562,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22798,
+            "stars": 22805,
             "topics": [
               "agent",
               "cloud-native",
@@ -59,7 +59,7 @@
             "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5416,
+            "stars": 5417,
             "topics": [
               "parsing",
               "peg",
@@ -111,10 +111,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-27T13:27:33Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4342,
+            "stars": 4343,
             "topics": [
               "django",
               "jinja2",
@@ -140,7 +140,7 @@
             "open_issues": 77,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2983,
+            "stars": 2984,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T22:14:37Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-05T21:47:25Z",
+            "open_issues": 8,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 956,
+            "stars": 957,
             "topics": [
               "algebra",
               "arithmetic",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:46:47.862Z",
+    "last_updated": "2026-11-05T22:46:31.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
