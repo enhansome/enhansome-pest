@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-05T22:37:12Z",
-            "open_issues": 2562,
+            "last_commit": "2026-11-06T22:03:01Z",
+            "open_issues": 2569,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22805,
+            "stars": 22808,
             "topics": [
               "agent",
               "cloud-native",
@@ -84,7 +84,7 @@
             "open_issues": 8,
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4738,
+            "stars": 4736,
             "topics": [
               "compiler",
               "language",
@@ -114,7 +114,7 @@
             "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4343,
+            "stars": 4344,
             "topics": [
               "django",
               "jinja2",
@@ -137,7 +137,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T06:42:52Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "mitsuhiko",
             "repo": "insta",
             "stars": 2984,
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T21:47:25Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-06T20:14:20Z",
+            "open_issues": 7,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 957,
+            "stars": 959,
             "topics": [
               "algebra",
               "arithmetic",
@@ -429,7 +429,7 @@
             "id": 454207143,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T22:37:11Z",
+            "last_commit": "2026-11-05T23:03:41Z",
             "open_issues": 0,
             "owner": "keadex",
             "repo": "keadex",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:46:31.319Z",
+    "last_updated": "2026-11-06T22:15:12.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
@@ -949,7 +949,7 @@
       "open_issues": 0,
       "owner": "pest-parser",
       "repo": "awesome-pest",
-      "stars": 157,
+      "stars": 158,
       "topics": [
         "awesome",
         "awesome-list",
