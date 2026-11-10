@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-09T23:22:44Z",
-            "open_issues": 2574,
+            "last_commit": "2026-11-10T22:03:06Z",
+            "open_issues": 2578,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22828,
+            "stars": 22842,
             "topics": [
               "agent",
               "cloud-native",
@@ -55,11 +55,11 @@
             "id": 56964647,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T00:14:24Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-10T08:08:20Z",
+            "open_issues": 64,
             "owner": "pest-parser",
             "repo": "pest",
-            "stars": 5417,
+            "stars": 5418,
             "topics": [
               "parsing",
               "peg",
@@ -84,7 +84,7 @@
             "open_issues": 8,
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4736,
+            "stars": 4738,
             "topics": [
               "compiler",
               "language",
@@ -114,7 +114,7 @@
             "open_issues": 9,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4345,
+            "stars": 4346,
             "topics": [
               "django",
               "jinja2",
@@ -140,7 +140,7 @@
             "open_issues": 77,
             "owner": "mitsuhiko",
             "repo": "insta",
-            "stars": 2984,
+            "stars": 2985,
             "topics": [
               "rust",
               "snapshot-tests",
@@ -165,7 +165,7 @@
             "open_issues": 121,
             "owner": "Zokrates",
             "repo": "ZoKrates",
-            "stars": 1873,
+            "stars": 1874,
             "topics": [
               "ethereum",
               "language",
@@ -224,7 +224,7 @@
             "open_issues": 6,
             "owner": "huacnlee",
             "repo": "autocorrect",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "autocorrect",
               "copywriting",
@@ -254,7 +254,7 @@
             "open_issues": 46,
             "owner": "sunng87",
             "repo": "handlebars-rust",
-            "stars": 1486,
+            "stars": 1487,
             "topics": [
               "handlebars",
               "handlebars-js",
@@ -280,7 +280,7 @@
             "open_issues": 0,
             "owner": "mitnk",
             "repo": "cicada",
-            "stars": 1009,
+            "stars": 1010,
             "topics": [
               "cicada",
               "linux",
@@ -302,11 +302,11 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-10T00:42:08Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-10T22:25:05Z",
+            "open_issues": 13,
             "owner": "ad-si",
             "repo": "Woxi",
-            "stars": 965,
+            "stars": 968,
             "topics": [
               "algebra",
               "arithmetic",
@@ -348,7 +348,7 @@
             "open_issues": 3,
             "owner": "wahn",
             "repo": "rs_pbrt",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "graphics",
               "pathtracer",
@@ -433,7 +433,7 @@
             "open_issues": 0,
             "owner": "keadex",
             "repo": "keadex",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "atlassian",
               "c4-model",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:48:32.898Z",
+    "last_updated": "2026-11-10T22:28:21.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
@@ -949,7 +949,7 @@
       "open_issues": 0,
       "owner": "pest-parser",
       "repo": "awesome-pest",
-      "stars": 158,
+      "stars": 159,
       "topics": [
         "awesome",
         "awesome-list",
