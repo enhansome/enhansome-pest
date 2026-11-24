@@ -15,11 +15,11 @@
             "id": 146327667,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-21T01:40:45Z",
-            "open_issues": 2575,
+            "last_commit": "2026-11-24T03:18:51Z",
+            "open_issues": 2571,
             "owner": "vectordotdev",
             "repo": "vector",
-            "stars": 22939,
+            "stars": 22945,
             "topics": [
               "agent",
               "cloud-native",
@@ -84,7 +84,7 @@
             "open_issues": 8,
             "owner": "yoav-lavi",
             "repo": "melody",
-            "stars": 4739,
+            "stars": 4738,
             "topics": [
               "compiler",
               "language",
@@ -111,10 +111,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-22T10:33:04Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "Keats",
             "repo": "tera",
-            "stars": 4353,
+            "stars": 4354,
             "topics": [
               "django",
               "jinja2",
@@ -302,8 +302,8 @@
             "id": 851960895,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-22T12:09:34Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-24T03:19:01Z",
+            "open_issues": 40,
             "owner": "ad-si",
             "repo": "Woxi",
             "stars": 994,
@@ -412,7 +412,7 @@
             "open_issues": 7,
             "owner": "callum-oakley",
             "repo": "json5-rs",
-            "stars": 251,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-08-29T01:05:57.925Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:41:17.676Z",
+    "last_updated": "2026-11-24T03:25:28.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources, projects, and tools using or for the pest parser generator in Rust",
